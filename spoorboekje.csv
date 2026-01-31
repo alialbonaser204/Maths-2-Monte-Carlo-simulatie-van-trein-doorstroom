@@ -1,0 +1,526 @@
+,Tijd,Spoor 1,Spoor 2,Spoor 3,Spoor 4
+0,05:05:00,,Aankomst Sto Plains 1,,
+1,05:08:00,,Vertrek Sto Plains 1,,
+2,05:15:00,,Aankomst Sto Plains 2,,
+3,05:18:00,,Vertrek Sto Plains 2,,
+4,05:25:00,,Aankomst Sto Plains 3,,
+5,05:28:00,,Vertrek Sto Plains 3,,
+6,05:35:00,,Aankomst Sto Plains 4,,
+7,05:37:00,,,,Aankomst Pseudopolis 1
+8,05:38:00,,Vertrek Sto Plains 4,,
+9,05:40:00,,,,Vertrek Pseudopolis 1
+10,05:43:00,,,,Aankomst Lancre 1
+11,05:45:00,,Aankomst Sto Plains 5,,
+12,05:46:00,,,,Vertrek Lancre 1
+13,05:48:00,,Vertrek Sto Plains 5,,
+14,05:52:00,,,,Aankomst Quirm 1
+15,05:55:00,,Aankomst Sto Plains 6,,Vertrek Quirm 1
+16,05:58:00,,Vertrek Sto Plains 6,,
+17,06:03:00,,,,Aankomst Lancre 2
+18,06:05:00,,Aankomst Sto Plains 7,,
+19,06:06:00,,,,Vertrek Lancre 2
+20,06:07:00,,,,Aankomst Pseudopolis 2
+21,06:08:00,,Vertrek Sto Plains 7,,
+22,06:10:00,,,,Vertrek Pseudopolis 2
+23,06:15:00,,Aankomst Sto Plains 8,,
+24,06:18:00,,Vertrek Sto Plains 8,,
+25,06:22:00,,,,Aankomst Quirm 2
+26,06:25:00,,Aankomst Sto Plains 9,,Vertrek Quirm 2
+27,06:26:00,,,,Aankomst Lancre 3
+28,06:28:00,,Vertrek Sto Plains 9,,
+29,06:29:00,,,,Vertrek Lancre 3
+30,06:35:00,,Aankomst Sto Plains 10,,
+31,06:37:00,,,,Aankomst Pseudopolis 3
+32,06:38:00,,Vertrek Sto Plains 10,,
+33,06:40:00,Aankomst Genoa 1,,,Vertrek Pseudopolis 3
+34,06:42:00,,,Aankomst Brindisi 1,
+35,06:43:00,,,,Aankomst Lancre 4
+36,06:45:00,,Aankomst Sto Plains 11,,
+37,06:46:00,,,,Vertrek Lancre 4
+38,06:48:00,Vertrek Genoa 1,Vertrek Sto Plains 11,,
+39,06:51:00,Aankomst Llamedos 1,,,
+40,06:52:00,,,,Aankomst Quirm 3
+41,06:55:00,,Aankomst Sto Plains 12,,Vertrek Quirm 3
+42,06:57:00,Vertrek Llamedos 1,,,
+43,06:58:00,,Vertrek Sto Plains 12,Vertrek Brindisi 1,
+44,07:03:00,,,,Aankomst Lancre 5
+45,07:05:00,,Aankomst Sto Plains 13,,
+46,07:06:00,,,,Vertrek Lancre 5
+47,07:07:00,,,,Aankomst Pseudopolis 4
+48,07:08:00,,Vertrek Sto Plains 13,,
+49,07:10:00,Aankomst Genoa 2,,,Vertrek Pseudopolis 4
+50,07:15:00,,Aankomst Sto Plains 14,,
+51,07:18:00,Vertrek Genoa 2,Vertrek Sto Plains 14,,
+52,07:20:00,,,Aankomst Borogravia 1,
+53,07:22:00,,,,Aankomst Quirm 4
+54,07:25:00,,Aankomst Sto Plains 15,,Vertrek Quirm 4
+55,07:26:00,,,,Aankomst Lancre 6
+56,07:28:00,,Vertrek Sto Plains 15,,
+57,07:29:00,,,,Vertrek Lancre 6
+58,07:32:00,,,Vertrek Borogravia 1,
+59,07:35:00,,Aankomst Sto Plains 16,,
+60,07:37:00,,,,Aankomst Pseudopolis 5
+61,07:38:00,,Vertrek Sto Plains 16,,
+62,07:40:00,Aankomst Genoa 3,,,Vertrek Pseudopolis 5
+63,07:42:00,,,Aankomst Brindisi 2,
+64,07:43:00,,,,Aankomst Lancre 7
+65,07:45:00,,Aankomst Sto Plains 17,,
+66,07:46:00,,,,Vertrek Lancre 7
+67,07:48:00,Vertrek Genoa 3,Vertrek Sto Plains 17,,
+68,07:51:00,Aankomst Llamedos 2,,,
+69,07:52:00,,,,Aankomst Quirm 5
+70,07:55:00,,Aankomst Sto Plains 18,,Vertrek Quirm 5
+71,07:57:00,Vertrek Llamedos 2,,,
+72,07:58:00,,Vertrek Sto Plains 18,Vertrek Brindisi 2,
+73,08:00:00,,,Aankomst Uberwald 1,
+74,08:03:00,,,,Aankomst Lancre 8
+75,08:05:00,,Aankomst Sto Plains 19,,
+76,08:06:00,,,,Vertrek Lancre 8
+77,08:07:00,,,,Aankomst Pseudopolis 6
+78,08:08:00,,Vertrek Sto Plains 19,,
+79,08:10:00,Aankomst Genoa 4,,,Vertrek Pseudopolis 6
+80,08:15:00,,Aankomst Sto Plains 20,Vertrek Uberwald 1,
+81,08:18:00,Vertrek Genoa 4,Vertrek Sto Plains 20,,
+82,08:20:00,,,Aankomst Borogravia 2,
+83,08:22:00,,,,Aankomst Quirm 6
+84,08:25:00,,Aankomst Sto Plains 21,,Vertrek Quirm 6
+85,08:26:00,,,,Aankomst Lancre 9
+86,08:28:00,,Vertrek Sto Plains 21,,
+87,08:29:00,,,,Vertrek Lancre 9
+88,08:32:00,,,Vertrek Borogravia 2,
+89,08:35:00,,Aankomst Sto Plains 22,,
+90,08:37:00,,,,Aankomst Pseudopolis 7
+91,08:38:00,,Vertrek Sto Plains 22,,
+92,08:40:00,Aankomst Genoa 5,,,Vertrek Pseudopolis 7
+93,08:42:00,,,Aankomst Brindisi 3,
+94,08:43:00,,,,Aankomst Lancre 10
+95,08:45:00,,Aankomst Sto Plains 23,,
+96,08:46:00,,,,Vertrek Lancre 10
+97,08:48:00,Vertrek Genoa 5,Vertrek Sto Plains 23,,
+98,08:51:00,Aankomst Llamedos 3,,,
+99,08:52:00,,,,Aankomst Quirm 7
+100,08:55:00,,Aankomst Sto Plains 24,,Vertrek Quirm 7
+101,08:57:00,Vertrek Llamedos 3,,,
+102,08:58:00,,Vertrek Sto Plains 24,Vertrek Brindisi 3,
+103,09:00:00,,,Aankomst Uberwald 2,
+104,09:03:00,,,,Aankomst Lancre 11
+105,09:05:00,,Aankomst Sto Plains 25,,
+106,09:06:00,,,,Vertrek Lancre 11
+107,09:07:00,,,,Aankomst Pseudopolis 8
+108,09:08:00,,Vertrek Sto Plains 25,,
+109,09:10:00,Aankomst Genoa 6,,,Vertrek Pseudopolis 8
+110,09:15:00,,Aankomst Sto Plains 26,Vertrek Uberwald 2,
+111,09:18:00,Vertrek Genoa 6,Vertrek Sto Plains 26,,
+112,09:20:00,,,Aankomst Borogravia 3,
+113,09:22:00,,,,Aankomst Quirm 8
+114,09:25:00,,Aankomst Sto Plains 27,,Vertrek Quirm 8
+115,09:26:00,,,,Aankomst Lancre 12
+116,09:28:00,,Vertrek Sto Plains 27,,
+117,09:29:00,,,,Vertrek Lancre 12
+118,09:32:00,,,Vertrek Borogravia 3,
+119,09:35:00,,Aankomst Sto Plains 28,,
+120,09:37:00,,,,Aankomst Pseudopolis 9
+121,09:38:00,,Vertrek Sto Plains 28,,
+122,09:40:00,Aankomst Genoa 7,,,Vertrek Pseudopolis 9
+123,09:42:00,,,Aankomst Brindisi 4,
+124,09:43:00,,,,Aankomst Lancre 13
+125,09:45:00,,Aankomst Sto Plains 29,,
+126,09:46:00,,,,Vertrek Lancre 13
+127,09:48:00,Vertrek Genoa 7,Vertrek Sto Plains 29,,
+128,09:51:00,Aankomst Llamedos 4,,,
+129,09:52:00,,,,Aankomst Quirm 9
+130,09:55:00,,Aankomst Sto Plains 30,,Vertrek Quirm 9
+131,09:57:00,Vertrek Llamedos 4,,,
+132,09:58:00,,Vertrek Sto Plains 30,Vertrek Brindisi 4,
+133,10:00:00,,,Aankomst Uberwald 3,
+134,10:03:00,,,,Aankomst Lancre 14
+135,10:05:00,,Aankomst Sto Plains 31,,
+136,10:06:00,,,,Vertrek Lancre 14
+137,10:07:00,,,,Aankomst Pseudopolis 10
+138,10:08:00,,Vertrek Sto Plains 31,,
+139,10:10:00,Aankomst Genoa 8,,,Vertrek Pseudopolis 10
+140,10:15:00,,Aankomst Sto Plains 32,Vertrek Uberwald 3,
+141,10:18:00,Vertrek Genoa 8,Vertrek Sto Plains 32,,
+142,10:20:00,,,Aankomst Borogravia 4,
+143,10:22:00,,,,Aankomst Quirm 10
+144,10:25:00,,Aankomst Sto Plains 33,,Vertrek Quirm 10
+145,10:26:00,,,,Aankomst Lancre 15
+146,10:28:00,,Vertrek Sto Plains 33,,
+147,10:29:00,,,,Vertrek Lancre 15
+148,10:32:00,,,Vertrek Borogravia 4,
+149,10:35:00,,Aankomst Sto Plains 34,,
+150,10:37:00,,,,Aankomst Pseudopolis 11
+151,10:38:00,,Vertrek Sto Plains 34,,
+152,10:40:00,Aankomst Genoa 9,,,Vertrek Pseudopolis 11
+153,10:42:00,,,Aankomst Brindisi 5,
+154,10:43:00,,,,Aankomst Lancre 16
+155,10:45:00,,Aankomst Sto Plains 35,,
+156,10:46:00,,,,Vertrek Lancre 16
+157,10:48:00,Vertrek Genoa 9,Vertrek Sto Plains 35,,
+158,10:51:00,Aankomst Llamedos 5,,,
+159,10:52:00,,,,Aankomst Quirm 11
+160,10:55:00,,Aankomst Sto Plains 36,,Vertrek Quirm 11
+161,10:57:00,Vertrek Llamedos 5,,,
+162,10:58:00,,Vertrek Sto Plains 36,Vertrek Brindisi 5,
+163,11:00:00,,,Aankomst Uberwald 4,
+164,11:03:00,,,,Aankomst Lancre 17
+165,11:05:00,,Aankomst Sto Plains 37,,
+166,11:06:00,,,,Vertrek Lancre 17
+167,11:07:00,,,,Aankomst Pseudopolis 12
+168,11:08:00,,Vertrek Sto Plains 37,,
+169,11:10:00,Aankomst Genoa 10,,,Vertrek Pseudopolis 12
+170,11:15:00,,Aankomst Sto Plains 38,Vertrek Uberwald 4,
+171,11:18:00,Vertrek Genoa 10,Vertrek Sto Plains 38,,
+172,11:20:00,,,Aankomst Borogravia 5,
+173,11:22:00,,,,Aankomst Quirm 12
+174,11:25:00,,Aankomst Sto Plains 39,,Vertrek Quirm 12
+175,11:26:00,,,,Aankomst Lancre 18
+176,11:28:00,,Vertrek Sto Plains 39,,
+177,11:29:00,,,,Vertrek Lancre 18
+178,11:32:00,,,Vertrek Borogravia 5,
+179,11:35:00,,Aankomst Sto Plains 40,Aankomst Klatch 1,
+180,11:37:00,,,,Aankomst Pseudopolis 13
+181,11:38:00,,Vertrek Sto Plains 40,,
+182,11:40:00,Aankomst Genoa 11,,Vertrek Klatch 1,Vertrek Pseudopolis 13
+183,11:42:00,,,Aankomst Brindisi 6,
+184,11:43:00,,,,Aankomst Lancre 19
+185,11:45:00,,Aankomst Sto Plains 41,,
+186,11:46:00,,,,Vertrek Lancre 19
+187,11:48:00,Vertrek Genoa 11,Vertrek Sto Plains 41,,
+188,11:51:00,Aankomst Llamedos 6,,,
+189,11:52:00,,,,Aankomst Quirm 13
+190,11:55:00,,Aankomst Sto Plains 42,,Vertrek Quirm 13
+191,11:57:00,Vertrek Llamedos 6,,,
+192,11:58:00,,Vertrek Sto Plains 42,Vertrek Brindisi 6,
+193,12:00:00,,,Aankomst Uberwald 5,
+194,12:03:00,,,,Aankomst Lancre 20
+195,12:05:00,,Aankomst Sto Plains 43,,
+196,12:06:00,,,,Vertrek Lancre 20
+197,12:07:00,,,,Aankomst Pseudopolis 14
+198,12:08:00,,Vertrek Sto Plains 43,,
+199,12:10:00,Aankomst Genoa 12,,,Vertrek Pseudopolis 14
+200,12:15:00,,Aankomst Sto Plains 44,Vertrek Uberwald 5,
+201,12:18:00,Vertrek Genoa 12,Vertrek Sto Plains 44,,
+202,12:20:00,,,Aankomst Borogravia 6,
+203,12:22:00,,,,Aankomst Quirm 14
+204,12:25:00,,Aankomst Sto Plains 45,,Vertrek Quirm 14
+205,12:26:00,,,,Aankomst Lancre 21
+206,12:28:00,,Vertrek Sto Plains 45,,
+207,12:29:00,,,,Vertrek Lancre 21
+208,12:32:00,,,Vertrek Borogravia 6,
+209,12:35:00,,Aankomst Sto Plains 46,Aankomst Klatch 2,
+210,12:37:00,,,,Aankomst Pseudopolis 15
+211,12:38:00,,Vertrek Sto Plains 46,,
+212,12:40:00,Aankomst Genoa 13,,Vertrek Klatch 2,Vertrek Pseudopolis 15
+213,12:42:00,,,Aankomst Brindisi 7,
+214,12:43:00,,,,Aankomst Lancre 22
+215,12:45:00,,Aankomst Sto Plains 47,,
+216,12:46:00,,,,Vertrek Lancre 22
+217,12:48:00,Vertrek Genoa 13,Vertrek Sto Plains 47,,
+218,12:51:00,Aankomst Llamedos 7,,,
+219,12:52:00,,,,Aankomst Quirm 15
+220,12:55:00,,Aankomst Sto Plains 48,,Vertrek Quirm 15
+221,12:57:00,Vertrek Llamedos 7,,,
+222,12:58:00,,Vertrek Sto Plains 48,Vertrek Brindisi 7,
+223,13:00:00,,,Aankomst Uberwald 6,
+224,13:03:00,,,,Aankomst Lancre 23
+225,13:05:00,,Aankomst Sto Plains 49,,
+226,13:06:00,,,,Vertrek Lancre 23
+227,13:07:00,,,,Aankomst Pseudopolis 16
+228,13:08:00,,Vertrek Sto Plains 49,,
+229,13:10:00,Aankomst Genoa 14,,,Vertrek Pseudopolis 16
+230,13:15:00,,Aankomst Sto Plains 50,Vertrek Uberwald 6,
+231,13:18:00,Vertrek Genoa 14,Vertrek Sto Plains 50,,
+232,13:20:00,,,Aankomst Borogravia 7,
+233,13:22:00,,,,Aankomst Quirm 16
+234,13:25:00,,Aankomst Sto Plains 51,,Vertrek Quirm 16
+235,13:26:00,,,,Aankomst Lancre 24
+236,13:28:00,,Vertrek Sto Plains 51,,
+237,13:29:00,,,,Vertrek Lancre 24
+238,13:32:00,,,Vertrek Borogravia 7,
+239,13:35:00,,Aankomst Sto Plains 52,Aankomst Klatch 3,
+240,13:37:00,,,,Aankomst Pseudopolis 17
+241,13:38:00,,Vertrek Sto Plains 52,,
+242,13:40:00,Aankomst Genoa 15,,Vertrek Klatch 3,Vertrek Pseudopolis 17
+243,13:42:00,,,Aankomst Brindisi 8,
+244,13:43:00,,,,Aankomst Lancre 25
+245,13:45:00,,Aankomst Sto Plains 53,,
+246,13:46:00,,,,Vertrek Lancre 25
+247,13:48:00,Vertrek Genoa 15,Vertrek Sto Plains 53,,
+248,13:51:00,Aankomst Llamedos 8,,,
+249,13:52:00,,,,Aankomst Quirm 17
+250,13:55:00,,Aankomst Sto Plains 54,,Vertrek Quirm 17
+251,13:57:00,Vertrek Llamedos 8,,,
+252,13:58:00,,Vertrek Sto Plains 54,Vertrek Brindisi 8,
+253,14:00:00,,,Aankomst Uberwald 7,
+254,14:03:00,,,,Aankomst Lancre 26
+255,14:05:00,,Aankomst Sto Plains 55,,
+256,14:06:00,,,,Vertrek Lancre 26
+257,14:07:00,,,,Aankomst Pseudopolis 18
+258,14:08:00,,Vertrek Sto Plains 55,,
+259,14:10:00,Aankomst Genoa 16,,,Vertrek Pseudopolis 18
+260,14:15:00,,Aankomst Sto Plains 56,Vertrek Uberwald 7,
+261,14:18:00,Vertrek Genoa 16,Vertrek Sto Plains 56,,
+262,14:20:00,,,Aankomst Borogravia 8,
+263,14:22:00,,,,Aankomst Quirm 18
+264,14:25:00,,Aankomst Sto Plains 57,,Vertrek Quirm 18
+265,14:26:00,,,,Aankomst Lancre 27
+266,14:28:00,,Vertrek Sto Plains 57,,
+267,14:29:00,,,,Vertrek Lancre 27
+268,14:32:00,,,Vertrek Borogravia 8,
+269,14:35:00,,Aankomst Sto Plains 58,Aankomst Klatch 4,
+270,14:37:00,,,,Aankomst Pseudopolis 19
+271,14:38:00,,Vertrek Sto Plains 58,,
+272,14:40:00,Aankomst Genoa 17,,Vertrek Klatch 4,Vertrek Pseudopolis 19
+273,14:42:00,,,Aankomst Brindisi 9,
+274,14:43:00,,,,Aankomst Lancre 28
+275,14:45:00,,Aankomst Sto Plains 59,,
+276,14:46:00,,,,Vertrek Lancre 28
+277,14:48:00,Vertrek Genoa 17,Vertrek Sto Plains 59,,
+278,14:51:00,Aankomst Llamedos 9,,,
+279,14:52:00,,,,Aankomst Quirm 19
+280,14:55:00,,Aankomst Sto Plains 60,,Vertrek Quirm 19
+281,14:57:00,Vertrek Llamedos 9,,,
+282,14:58:00,,Vertrek Sto Plains 60,Vertrek Brindisi 9,
+283,15:00:00,,,Aankomst Uberwald 8,
+284,15:03:00,,,,Aankomst Lancre 29
+285,15:05:00,,Aankomst Sto Plains 61,,
+286,15:06:00,,,,Vertrek Lancre 29
+287,15:07:00,,,,Aankomst Pseudopolis 20
+288,15:08:00,,Vertrek Sto Plains 61,,
+289,15:10:00,Aankomst Genoa 18,,,Vertrek Pseudopolis 20
+290,15:15:00,,Aankomst Sto Plains 62,Vertrek Uberwald 8,
+291,15:18:00,Vertrek Genoa 18,Vertrek Sto Plains 62,,
+292,15:20:00,,,Aankomst Borogravia 9,
+293,15:22:00,,,,Aankomst Quirm 20
+294,15:25:00,,Aankomst Sto Plains 63,,Vertrek Quirm 20
+295,15:26:00,,,,Aankomst Lancre 30
+296,15:28:00,,Vertrek Sto Plains 63,,
+297,15:29:00,,,,Vertrek Lancre 30
+298,15:32:00,,,Vertrek Borogravia 9,
+299,15:35:00,,Aankomst Sto Plains 64,Aankomst Klatch 5,
+300,15:37:00,,,,Aankomst Pseudopolis 21
+301,15:38:00,,Vertrek Sto Plains 64,,
+302,15:40:00,Aankomst Genoa 19,,Vertrek Klatch 5,Vertrek Pseudopolis 21
+303,15:42:00,,,Aankomst Brindisi 10,
+304,15:43:00,,,,Aankomst Lancre 31
+305,15:45:00,,Aankomst Sto Plains 65,,
+306,15:46:00,,,,Vertrek Lancre 31
+307,15:48:00,Vertrek Genoa 19,Vertrek Sto Plains 65,,
+308,15:51:00,Aankomst Llamedos 10,,,
+309,15:52:00,,,,Aankomst Quirm 21
+310,15:55:00,,Aankomst Sto Plains 66,,Vertrek Quirm 21
+311,15:57:00,Vertrek Llamedos 10,,,
+312,15:58:00,,Vertrek Sto Plains 66,Vertrek Brindisi 10,
+313,16:00:00,,,Aankomst Uberwald 9,
+314,16:03:00,,,,Aankomst Lancre 32
+315,16:05:00,,Aankomst Sto Plains 67,,
+316,16:06:00,,,,Vertrek Lancre 32
+317,16:07:00,,,,Aankomst Pseudopolis 22
+318,16:08:00,,Vertrek Sto Plains 67,,
+319,16:10:00,Aankomst Genoa 20,,,Vertrek Pseudopolis 22
+320,16:15:00,,Aankomst Sto Plains 68,Vertrek Uberwald 9,
+321,16:18:00,Vertrek Genoa 20,Vertrek Sto Plains 68,,
+322,16:20:00,,,Aankomst Borogravia 10,
+323,16:22:00,,,,Aankomst Quirm 22
+324,16:25:00,,Aankomst Sto Plains 69,,Vertrek Quirm 22
+325,16:26:00,,,,Aankomst Lancre 33
+326,16:28:00,,Vertrek Sto Plains 69,,
+327,16:29:00,,,,Vertrek Lancre 33
+328,16:32:00,,,Vertrek Borogravia 10,
+329,16:35:00,,Aankomst Sto Plains 70,,
+330,16:37:00,,,,Aankomst Pseudopolis 23
+331,16:38:00,,Vertrek Sto Plains 70,,
+332,16:40:00,Aankomst Genoa 21,,,Vertrek Pseudopolis 23
+333,16:42:00,,,Aankomst Brindisi 11,
+334,16:43:00,,,,Aankomst Lancre 34
+335,16:45:00,,Aankomst Sto Plains 71,,
+336,16:46:00,,,,Vertrek Lancre 34
+337,16:48:00,Vertrek Genoa 21,Vertrek Sto Plains 71,,
+338,16:51:00,Aankomst Llamedos 11,,,
+339,16:52:00,,,,Aankomst Quirm 23
+340,16:55:00,,Aankomst Sto Plains 72,,Vertrek Quirm 23
+341,16:57:00,Vertrek Llamedos 11,,,
+342,16:58:00,,Vertrek Sto Plains 72,Vertrek Brindisi 11,
+343,17:00:00,,,Aankomst Uberwald 10,
+344,17:03:00,,,,Aankomst Lancre 35
+345,17:05:00,,Aankomst Sto Plains 73,,
+346,17:06:00,,,,Vertrek Lancre 35
+347,17:07:00,,,,Aankomst Pseudopolis 24
+348,17:08:00,,Vertrek Sto Plains 73,,
+349,17:10:00,Aankomst Genoa 22,,Vertrek Uberwald 10,Vertrek Pseudopolis 24
+350,17:15:00,,Aankomst Sto Plains 74,Aankomst Tsort 1,
+351,17:18:00,Vertrek Genoa 22,Vertrek Sto Plains 74,,
+352,17:22:00,,,Vertrek Tsort 1,Aankomst Quirm 24
+353,17:25:00,,Aankomst Sto Plains 75,Aankomst Ephebe 1,Vertrek Quirm 24
+354,17:26:00,,,,Aankomst Lancre 36
+355,17:28:00,,Vertrek Sto Plains 75,,
+356,17:29:00,,,,Vertrek Lancre 36
+357,17:35:00,,Aankomst Sto Plains 76,,
+358,17:37:00,,,,Aankomst Pseudopolis 25
+359,17:38:00,,Vertrek Sto Plains 76,,
+360,17:40:00,Aankomst Genoa 23,,,Vertrek Pseudopolis 25
+361,17:41:00,,,Vertrek Ephebe 1,
+362,17:43:00,,,,Aankomst Lancre 37
+363,17:45:00,,Aankomst Sto Plains 77,Aankomst Omnia 1,
+364,17:46:00,,,,Vertrek Lancre 37
+365,17:48:00,Vertrek Genoa 23,Vertrek Sto Plains 77,,
+366,17:51:00,Aankomst Llamedos 12,,,
+367,17:52:00,,,,Aankomst Quirm 25
+368,17:55:00,,Aankomst Sto Plains 78,,Vertrek Quirm 25
+369,17:57:00,Vertrek Llamedos 12,,,
+370,17:58:00,,Vertrek Sto Plains 78,,
+371,18:01:00,,,Vertrek Omnia 1,
+372,18:03:00,,,,Aankomst Lancre 38
+373,18:05:00,,Aankomst Sto Plains 79,,
+374,18:06:00,,,,Vertrek Lancre 38
+375,18:07:00,,,,Aankomst Pseudopolis 26
+376,18:08:00,,Vertrek Sto Plains 79,,
+377,18:10:00,Aankomst Genoa 24,,Aankomst Tsort 2,Vertrek Pseudopolis 26
+378,18:15:00,,Aankomst Sto Plains 80,,
+379,18:18:00,Vertrek Genoa 24,Vertrek Sto Plains 80,,
+380,18:22:00,,,Vertrek Tsort 2,Aankomst Quirm 26
+381,18:25:00,,Aankomst Sto Plains 81,Aankomst Ephebe 2,Vertrek Quirm 26
+382,18:26:00,,,,Aankomst Lancre 39
+383,18:28:00,,Vertrek Sto Plains 81,,
+384,18:29:00,,,,Vertrek Lancre 39
+385,18:35:00,,Aankomst Sto Plains 82,,
+386,18:37:00,,,,Aankomst Pseudopolis 27
+387,18:38:00,,Vertrek Sto Plains 82,,
+388,18:40:00,Aankomst Genoa 25,,,Vertrek Pseudopolis 27
+389,18:41:00,,,Vertrek Ephebe 2,
+390,18:43:00,,,,Aankomst Lancre 40
+391,18:45:00,,Aankomst Sto Plains 83,Aankomst Omnia 2,
+392,18:46:00,,,,Vertrek Lancre 40
+393,18:48:00,Vertrek Genoa 25,Vertrek Sto Plains 83,,
+394,18:51:00,Aankomst Llamedos 13,,,
+395,18:52:00,,,,Aankomst Quirm 27
+396,18:55:00,,Aankomst Sto Plains 84,,Vertrek Quirm 27
+397,18:57:00,Vertrek Llamedos 13,,,
+398,18:58:00,,Vertrek Sto Plains 84,,
+399,19:01:00,,,Vertrek Omnia 2,
+400,19:03:00,,,,Aankomst Lancre 41
+401,19:05:00,,Aankomst Sto Plains 85,,
+402,19:06:00,,,,Vertrek Lancre 41
+403,19:07:00,,,,Aankomst Pseudopolis 28
+404,19:08:00,,Vertrek Sto Plains 85,,
+405,19:10:00,Aankomst Genoa 26,,Aankomst Tsort 3,Vertrek Pseudopolis 28
+406,19:15:00,,Aankomst Sto Plains 86,,
+407,19:18:00,Vertrek Genoa 26,Vertrek Sto Plains 86,,
+408,19:22:00,,,Vertrek Tsort 3,Aankomst Quirm 28
+409,19:25:00,,Aankomst Sto Plains 87,Aankomst Ephebe 3,Vertrek Quirm 28
+410,19:26:00,,,,Aankomst Lancre 42
+411,19:28:00,,Vertrek Sto Plains 87,,
+412,19:29:00,,,,Vertrek Lancre 42
+413,19:35:00,,Aankomst Sto Plains 88,,
+414,19:37:00,,,,Aankomst Pseudopolis 29
+415,19:38:00,,Vertrek Sto Plains 88,,
+416,19:40:00,Aankomst Genoa 27,,,Vertrek Pseudopolis 29
+417,19:41:00,,,Vertrek Ephebe 3,
+418,19:43:00,,,,Aankomst Lancre 43
+419,19:45:00,,Aankomst Sto Plains 89,Aankomst Omnia 3,
+420,19:46:00,,,,Vertrek Lancre 43
+421,19:48:00,Vertrek Genoa 27,Vertrek Sto Plains 89,,
+422,19:51:00,Aankomst Llamedos 14,,,
+423,19:52:00,,,,Aankomst Quirm 29
+424,19:55:00,,Aankomst Sto Plains 90,,Vertrek Quirm 29
+425,19:57:00,Vertrek Llamedos 14,,,
+426,19:58:00,,Vertrek Sto Plains 90,,
+427,20:01:00,,,Vertrek Omnia 3,
+428,20:03:00,,,,Aankomst Lancre 44
+429,20:05:00,,Aankomst Sto Plains 91,,
+430,20:06:00,,,,Vertrek Lancre 44
+431,20:07:00,,,,Aankomst Pseudopolis 30
+432,20:08:00,,Vertrek Sto Plains 91,,
+433,20:10:00,Aankomst Genoa 28,,Aankomst Tsort 4,Vertrek Pseudopolis 30
+434,20:15:00,,Aankomst Sto Plains 92,,
+435,20:18:00,Vertrek Genoa 28,Vertrek Sto Plains 92,,
+436,20:22:00,,,Vertrek Tsort 4,Aankomst Quirm 30
+437,20:25:00,,Aankomst Sto Plains 93,Aankomst Ephebe 4,Vertrek Quirm 30
+438,20:26:00,,,,Aankomst Lancre 45
+439,20:28:00,,Vertrek Sto Plains 93,,
+440,20:29:00,,,,Vertrek Lancre 45
+441,20:35:00,,Aankomst Sto Plains 94,,
+442,20:37:00,,,,Aankomst Pseudopolis 31
+443,20:38:00,,Vertrek Sto Plains 94,,
+444,20:40:00,Aankomst Genoa 29,,,Vertrek Pseudopolis 31
+445,20:41:00,,,Vertrek Ephebe 4,
+446,20:43:00,,,,Aankomst Lancre 46
+447,20:45:00,,Aankomst Sto Plains 95,Aankomst Omnia 4,
+448,20:46:00,,,,Vertrek Lancre 46
+449,20:48:00,Vertrek Genoa 29,Vertrek Sto Plains 95,,
+450,20:51:00,Aankomst Llamedos 15,,,
+451,20:52:00,,,,Aankomst Quirm 31
+452,20:55:00,,Aankomst Sto Plains 96,,Vertrek Quirm 31
+453,20:57:00,Vertrek Llamedos 15,,,
+454,20:58:00,,Vertrek Sto Plains 96,,
+455,21:01:00,,,Vertrek Omnia 4,
+456,21:03:00,,,,Aankomst Lancre 47
+457,21:05:00,,Aankomst Sto Plains 97,,
+458,21:06:00,,,,Vertrek Lancre 47
+459,21:07:00,,,,Aankomst Pseudopolis 32
+460,21:08:00,,Vertrek Sto Plains 97,,
+461,21:10:00,Aankomst Genoa 30,,Aankomst Tsort 5,Vertrek Pseudopolis 32
+462,21:15:00,,Aankomst Sto Plains 98,,
+463,21:18:00,Vertrek Genoa 30,Vertrek Sto Plains 98,,
+464,21:22:00,,,Vertrek Tsort 5,Aankomst Quirm 32
+465,21:25:00,,Aankomst Sto Plains 99,Aankomst Ephebe 5,Vertrek Quirm 32
+466,21:26:00,,,,Aankomst Lancre 48
+467,21:28:00,,Vertrek Sto Plains 99,,
+468,21:29:00,,,,Vertrek Lancre 48
+469,21:35:00,,Aankomst Sto Plains 100,,
+470,21:37:00,,,,Aankomst Pseudopolis 33
+471,21:38:00,,Vertrek Sto Plains 100,,
+472,21:40:00,Aankomst Genoa 31,,,Vertrek Pseudopolis 33
+473,21:41:00,,,Vertrek Ephebe 5,
+474,21:43:00,,,,Aankomst Lancre 49
+475,21:45:00,,Aankomst Sto Plains 101,Aankomst Omnia 5,
+476,21:46:00,,,,Vertrek Lancre 49
+477,21:48:00,Vertrek Genoa 31,Vertrek Sto Plains 101,,
+478,21:51:00,Aankomst Llamedos 16,,,
+479,21:52:00,,,,Aankomst Quirm 33
+480,21:55:00,,Aankomst Sto Plains 102,,Vertrek Quirm 33
+481,21:57:00,Vertrek Llamedos 16,,,
+482,21:58:00,,Vertrek Sto Plains 102,,
+483,22:01:00,,,Vertrek Omnia 5,
+484,22:03:00,,,,Aankomst Lancre 50
+485,22:05:00,,Aankomst Sto Plains 103,,
+486,22:06:00,,,,Vertrek Lancre 50
+487,22:07:00,,,,Aankomst Pseudopolis 34
+488,22:08:00,,Vertrek Sto Plains 103,,
+489,22:10:00,Aankomst Genoa 32,,,Vertrek Pseudopolis 34
+490,22:15:00,,Aankomst Sto Plains 104,,
+491,22:18:00,Vertrek Genoa 32,Vertrek Sto Plains 104,,
+492,22:22:00,,,,Aankomst Quirm 34
+493,22:25:00,,Aankomst Sto Plains 105,,Vertrek Quirm 34
+494,22:26:00,,,,Aankomst Lancre 51
+495,22:28:00,,Vertrek Sto Plains 105,,
+496,22:29:00,,,,Vertrek Lancre 51
+497,22:35:00,,Aankomst Sto Plains 106,,
+498,22:37:00,,,,Aankomst Pseudopolis 35
+499,22:38:00,,Vertrek Sto Plains 106,,
+500,22:40:00,Aankomst Genoa 33,,,Vertrek Pseudopolis 35
+501,22:43:00,,,,Aankomst Lancre 52
+502,22:45:00,,Aankomst Sto Plains 107,,
+503,22:46:00,,,,Vertrek Lancre 52
+504,22:48:00,Vertrek Genoa 33,Vertrek Sto Plains 107,,
+505,22:51:00,Aankomst Llamedos 17,,,
+506,22:52:00,,,,Aankomst Quirm 35
+507,22:55:00,,Aankomst Sto Plains 108,,Vertrek Quirm 35
+508,22:57:00,Vertrek Llamedos 17,,,
+509,22:58:00,,Vertrek Sto Plains 108,,
+510,23:03:00,,,,Aankomst Lancre 53
+511,23:06:00,,,,Vertrek Lancre 53
+512,23:07:00,,,,Aankomst Pseudopolis 36
+513,23:10:00,,,,Vertrek Pseudopolis 36
+514,23:22:00,,,,Aankomst Quirm 36
+515,23:25:00,,,,Vertrek Quirm 36
+516,23:26:00,,,,Aankomst Lancre 54
+517,23:29:00,,,,Vertrek Lancre 54
+518,23:37:00,,,,Aankomst Pseudopolis 37
+519,23:40:00,Aankomst Genoa 34,,,Vertrek Pseudopolis 37
+520,23:43:00,,,,Aankomst Lancre 55
+521,23:46:00,,,,Vertrek Lancre 55
+522,23:48:00,Vertrek Genoa 34,,,
+523,23:52:00,,,,Aankomst Quirm 37
+524,23:55:00,,,,Vertrek Quirm 37
